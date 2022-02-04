@@ -11,7 +11,7 @@ Read about the profitability on AWS mining in his article [Mining Ethereum on AW
 
 2. Launch the [stack](https://github.com/awsdataarchitect/aws-eth-xmr-shib-dual-miner/blob/main/miner.yaml) in one or more of the cheapest regions. Sometimes spot capacity is not available in a particular region, in that case try a different one.
 
-3. Note the templace uses Monero (but you can simply replace the XMR mining pool with Shiba Ini if you want to try out SHIB mining using CPU)
+3. Note the templace uses Monero (but you can simply replace the XMR mining pool with Shiba Inu if you want to try out SHIB mining using CPU)
 
 Just be aware that it’s still not worth it unless you get a SPOT instance rate of < $0.11 /hr on the g4ad.xlarge instance. This is the best instance that I have tried so far and was somewhat profitable in Jan 2022.
 
