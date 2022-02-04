@@ -13,7 +13,7 @@ Read about the profitability on AWS mining in his article [Mining Ethereum on AW
 
 3. Note the template uses Monero (but you can simply replace the XMR mining pool with Shiba Inu if you want to try out SHIB mining using CPU)
 
-[![MIT License](hhttps://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=awsdualminer&templateURL=https://aws-dual-miner.s3.amazonaws.com/miner.yaml)
+[![Launch Stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=awsdualminer&templateURL=https://aws-dual-miner.s3.amazonaws.com/miner.yaml)
 
 Just be aware that it's still not worth it unless you get an EC2 SPOT instance rate of < $0.12/hr on the g4ad.xlarge instance. This AWS EC2 SPOT instance is the best instance that I have tried so far as it was somewhat profitable in Jan 2022 
 
