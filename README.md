@@ -1,4 +1,4 @@
-# Project Title
+# AWS Dual Miner
 
 AWS CloudFormation Template for Dual Miner (GPU + CPU) for Ethereum and other ALT coins (Monero or Shiba Inu)
 
