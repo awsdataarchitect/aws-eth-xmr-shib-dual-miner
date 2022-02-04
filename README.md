@@ -13,7 +13,7 @@ Read about the profitability on AWS mining in his article [Mining Ethereum on AW
 
 3. Note the template uses Monero (but you can simply replace the XMR mining pool with Shiba Inu if you want to try out SHIB mining using CPU)
 
-Just be aware that it’s still not worth it unless you get a SPOT instance rate of < $0.12/hr on the g4ad.xlarge instance. This is the best instance that I have tried so far and was somewhat profitable in Jan 2022.
+Just be aware that it's still not worth it unless you get an EC2 SPOT instance rate of < $0.12/hr on the g4ad.xlarge instance. This AWS EC2 SPOT instance is the best instance that I have tried so far as it was somewhat profitable in Jan 2022 
 
 ## Acknowledgements
  
@@ -24,3 +24,4 @@ Just be aware that it’s still not worth it unless you get a SPOT instance rate
 ## Support
 
 Did you find this template useful ? Any ETH amount sent to my address will be much appreciated: 0xBE0eACFA90d800A2504a9aDB4249DCa435C7F579
+(https://github.com/awsdataarchitect/aws-eth-xmr-shib-dual-miner/blob/main/qr.PNG)
