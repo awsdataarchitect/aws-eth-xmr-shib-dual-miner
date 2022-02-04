@@ -1,4 +1,4 @@
-# AWS Dual Miner
+# AWS Dual Crypto Coin Miner
 
 AWS CloudFormation Template for Dual Miner (GPU + CPU) for Ethereum and other ALT coins (Monero or Shiba Inu)
 
@@ -13,7 +13,7 @@ Read about the profitability on AWS mining in his article [Mining Ethereum on AW
 
 3. Note the template uses Monero (but you can simply replace the XMR mining pool with Shiba Inu if you want to try out SHIB mining using CPU)
 
-Just be aware that it’s still not worth it unless you get a SPOT instance rate of < $0.11 /hr on the g4ad.xlarge instance. This is the best instance that I have tried so far and was somewhat profitable in Jan 2022.
+Just be aware that it’s still not worth it unless you get a SPOT instance rate of < $0.12/hr on the g4ad.xlarge instance. This is the best instance that I have tried so far and was somewhat profitable in Jan 2022.
 
 ## Acknowledgements
  
