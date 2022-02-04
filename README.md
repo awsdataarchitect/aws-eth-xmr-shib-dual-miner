@@ -4,7 +4,7 @@ AWS CloudFormation Template for Dual Miner (GPU + CPU) for Ethereum and other AL
 
 # Implementation (3 mins)
 
-Here is quick way to start Dual coin mining on AWS in under 3 minutes. This templace is based on Michael Ludwig's repo (in acknowledgements below)
+Here is quick way to start Dual coin mining on AWS in under 3 minutes. This template is based on Michael Ludwig's repo (in acknowledgements below)
 Read about the profitability on AWS mining in his article [Mining Ethereum on AWS - is it worth it?](https://michael-ludvig.medium.com/mining-ethereum-on-aws-is-it-worth-it-f13645c12eec)
 
 1. Login to your AWS account and have your Ethereum and other ALT coin (Monero or Shiba Inu) wallet address ready
