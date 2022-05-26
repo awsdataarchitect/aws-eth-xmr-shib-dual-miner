@@ -25,7 +25,7 @@ Just be aware that it's still not worth it unless you get an EC2 SPOT instance r
 
 ## Support
 
-Did you find this template useful ? Any ETH amount sent to my address will be much appreciated: **0xBE0eACFA90d800A2504a9aDB4249DCa435C7F579**
+Did you find this template useful ? Any ETH amount sent to my address will be much appreciated: ****
 
 ![Logo](https://github.com/awsdataarchitect/aws-eth-xmr-shib-dual-miner/blob/main/qr.PNG)
 
